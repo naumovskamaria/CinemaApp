@@ -1,0 +1,64 @@
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Repository.deps.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Repository.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/bin/Debug/net6.0/ref/Homework.Repository.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Repository.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Domain.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Domain.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.csproj.AssemblyReference.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.AssemblyInfoInputs.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.AssemblyInfo.cs
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.csproj.CoreCompileInputs.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.csproj.CopyComplete
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/ref/Homework.Repository.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Repository.deps.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Repository.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Repository.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Domain.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/bin/Debug/net6.0/Homework.Domain.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.csproj.AssemblyReference.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.AssemblyInfoInputs.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.AssemblyInfo.cs
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.csproj.CoreCompileInputs.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.csproj.CopyComplete
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/Homework.Repository.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/obj/Debug/net6.0/ref/Homework.Repository.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Repository/bin/Debug/net6.0/ref/Homework.Repository.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\bin\Debug\net6.0\Homework.Repository.deps.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\bin\Debug\net6.0\Homework.Repository.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\bin\Debug\net6.0\Homework.Repository.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\bin\Debug\net6.0\Homework.Domain.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\bin\Debug\net6.0\Homework.Domain.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.csproj.CopyComplete
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\refint\Homework.Repository.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\ref\Homework.Repository.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\bin\Debug\net6.0\Homework.Repository.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Repository\obj\Debug\net6.0\Homework.Repository.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\bin\Debug\net6.0\Homework.Repository.deps.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\bin\Debug\net6.0\Homework.Repository.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\bin\Debug\net6.0\Homework.Repository.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\bin\Debug\net6.0\Homework.Repository.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\bin\Debug\net6.0\Homework.Domain.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\bin\Debug\net6.0\Homework.Domain.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\refint\Homework.Repository.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\Homework.Repository.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Repository\obj\Debug\net6.0\ref\Homework.Repository.dll

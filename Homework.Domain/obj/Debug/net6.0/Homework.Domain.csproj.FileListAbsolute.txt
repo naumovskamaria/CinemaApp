@@ -1,0 +1,48 @@
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/bin/Debug/net6.0/Homework.Domain.deps.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/bin/Debug/net6.0/Homework.Domain.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/bin/Debug/net6.0/ref/Homework.Domain.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/bin/Debug/net6.0/Homework.Domain.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.csproj.AssemblyReference.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.AssemblyInfoInputs.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.AssemblyInfo.cs
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.csproj.CoreCompileInputs.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/ref/Homework.Domain.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/bin/Debug/net6.0/Homework.Domain.deps.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/bin/Debug/net6.0/Homework.Domain.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/bin/Debug/net6.0/Homework.Domain.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.csproj.AssemblyReference.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.AssemblyInfoInputs.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.AssemblyInfo.cs
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.csproj.CoreCompileInputs.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/Homework.Domain.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/obj/Debug/net6.0/ref/Homework.Domain.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Domain/bin/Debug/net6.0/ref/Homework.Domain.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\Homework.Domain.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\Homework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\Homework.Domain.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\Homework.Domain.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\Homework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\Homework.Domain.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\refint\Homework.Domain.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\Homework.Domain.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\bin\Debug\net6.0\Homework.Domain.deps.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\bin\Debug\net6.0\Homework.Domain.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\bin\Debug\net6.0\Homework.Domain.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Domain\obj\Debug\net6.0\ref\Homework.Domain.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\bin\Debug\net6.0\Homework.Domain.deps.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\bin\Debug\net6.0\Homework.Domain.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\bin\Debug\net6.0\Homework.Domain.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\Homework.Domain.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\Homework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\Homework.Domain.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\Homework.Domain.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\Homework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\Homework.Domain.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\refint\Homework.Domain.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\Homework.Domain.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Domain\obj\Debug\net6.0\ref\Homework.Domain.dll

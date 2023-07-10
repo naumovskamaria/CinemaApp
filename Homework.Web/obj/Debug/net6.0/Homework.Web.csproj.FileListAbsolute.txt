@@ -1,0 +1,1134 @@
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/appsettings.Development.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/appsettings.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.staticwebassets.runtime.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.exe
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.deps.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.runtimeconfig.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ref/Homework.Web.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Humanizer.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/MessagePack.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/MessagePack.Annotations.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Owin.Host.SystemWeb.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Common.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Configuration.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.LibraryModel.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Packaging.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.ProjectModel.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Protocol.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Versioning.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.Convention.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.Hosting.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.Runtime.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.TypedParts.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Domain.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Repository.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Service.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Domain.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Repository.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/bin/Debug/net6.0/Homework.Service.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.csproj.AssemblyReference.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.AssemblyInfoInputs.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.AssemblyInfo.cs
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.csproj.CoreCompileInputs.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.MvcApplicationPartsAssemblyInfo.cs
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.RazorAssemblyInfo.cache
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.RazorAssemblyInfo.cs
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/staticwebassets.build.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/staticwebassets.development.json
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/scopedcss/bundle/Homework.Web.styles.css
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/scopedcss/projectbundle/Homework.Web.bundle.scp.css
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.csproj.CopyComplete
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/ref/Homework.Web.dll
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.pdb
+C:/Documents/University/FINKI/Semester VI/Integrated Systems/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.genruntimeconfig.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/appsettings.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.staticwebassets.runtime.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.deps.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.runtimeconfig.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Web.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Humanizer.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/MessagePack.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Owin.Host.SystemWeb.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Common.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Domain.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Repository.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Service.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Domain.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Repository.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/Homework.Service.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.csproj.AssemblyReference.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.AssemblyInfoInputs.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.AssemblyInfo.cs
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.csproj.CoreCompileInputs.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.RazorAssemblyInfo.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.RazorAssemblyInfo.cs
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/scopedcss/bundle/Homework.Web.styles.css
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/scopedcss/projectbundle/Homework.Web.bundle.scp.css
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.csproj.CopyComplete
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.pdb
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/Homework.Web.genruntimeconfig.cache
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/obj/Debug/net6.0/ref/Homework.Web.dll
+/Users/davidatanasoski/Downloads/Homework/Homework.Web/bin/Debug/net6.0/ref/Homework.Web.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Web.staticwebassets.runtime.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Web.exe
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Web.deps.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Web.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Web.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Web.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\MessagePack.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Owin.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Domain.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Repository.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Service.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Domain.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Repository.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\bin\Debug\net6.0\Homework.Service.pdb
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.RazorAssemblyInfo.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.RazorAssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\scopedcss\bundle\Homework.Web.styles.css
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\scopedcss\projectbundle\Homework.Web.bundle.scp.css
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.csproj.CopyComplete
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\refint\Homework.Web.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\Homework.Web.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\ref\Homework.Web.dll
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.Homework.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Homework.Web.props
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Homework.Web.props
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Homework.Web.props
+C:\Users\david\OneDrive\Desktop\Homework\Homework.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Web.staticwebassets.runtime.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Web.exe
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Web.deps.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Web.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Web.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Web.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\MessagePack.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Owin.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Domain.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Repository.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Service.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Domain.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Repository.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\bin\Debug\net6.0\Homework.Service.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.Homework.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Homework.Web.props
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Homework.Web.props
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Homework.Web.props
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\scopedcss\bundle\Homework.Web.styles.css
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\scopedcss\projectbundle\Homework.Web.bundle.scp.css
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\refint\Homework.Web.dll
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.pdb
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\Homework.Web.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\201202\Homework.Web\obj\Debug\net6.0\ref\Homework.Web.dll
